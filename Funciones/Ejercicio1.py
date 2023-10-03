@@ -16,7 +16,8 @@ def agregaNumeros(val):
     while (valorNuevo != -1):
         val.append(valorNuevo)
         valorNuevo = int(input("Ingrese el valor a agregar, ingresar -1 para salir: "))
+    return val
 
-    print(val)
 
-agregaNumeros(lista)
+print(agregaNumeros(lista))
+print(lista)
