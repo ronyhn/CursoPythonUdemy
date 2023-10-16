@@ -28,5 +28,5 @@ mari.hablar()
 pulpito = Pulpo()
 pulpito.hablar()
 
-foca = Foca("Hola Amigo soy la moda foca")
+foca = Foca("Hola soy la foca")
 foca.hablar()
